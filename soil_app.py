@@ -11,7 +11,7 @@ import os
 import requests
 import zipfile
 
-ZIP_URL = "https://drive.google.com/uc?export=download&id=15-7QPH6qPO3enNiGKXz7SH8A_MZeheN2"
+ZIP_URL = "https://drive.google.com/uc?export=download&id=14axsqY4xGIqIAPHygeVkx0nEi9c_m9k9"
 ZIP_FILE = "soil_fertility_app.zip"
 EXTRACT_DIR = "data"
 
